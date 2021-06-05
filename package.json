@@ -1,0 +1,23 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "my-test-project",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^7.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobylyatskiy/cypress-test.git"
+  },
+  "author": "kobylyatskiyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kobylyatskiy/cypress-test/issues"
+  },
+  "homepage": "https://github.com/kobylyatskiy/cypress-test#readme"
+}
